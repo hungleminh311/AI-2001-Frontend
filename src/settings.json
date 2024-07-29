@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Engineering Solutions That Take the Risk Out of Development",
+        "title": "Gamble on Innovation"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Engineering Solutions That Take the Risk Out of Development",
+        "title": "Gamble on Innovation"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Engineering Solutions That Take the Risk Out of Development",
+        "title": "Gamble on Innovation"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Engineering Solutions That Take the Risk Out of Development",
+        "title": "Gamble on Innovation"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Engineering Solutions That Take the Risk Out of Development",
+        "title": "Gamble on Innovation"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Engineering Solutions That Take the Risk Out of Development",
+        "title": "Gamble on Innovation"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Engineering Solutions That Take the Risk Out of Development",
+        "title": "Gamble on Innovation"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Engineering Solutions That Take the Risk Out of Development",
+        "title": "Gamble on Innovation"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Engineering Solutions That Take the Risk Out of Development",
+        "title": "Gamble on Innovation"
+      }
+    }
+  ],
+  "theme": "neo-brutal",
+  "font": "",
+  "title": "Gamble on Innovation",
+  "subtitle": "Engineering Solutions That Take the Risk Out of Development"
+}
